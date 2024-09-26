@@ -1,20 +1,20 @@
-Hi there!
+Hi there! 🐞 🔍
 
 I'm Iryna (Ira) Ihnatovich - QA engineer since 2019. I specialize in testing both web and mobile apps. In 2024 I've successfully finished course Java Automation QA Engineer. 
 ##
 **Skills**
 
-Tools:
+🔧Tools:
 DevTools,
 Git,
 Postman, Swagger,
 Charles Proxy,
 Xcode, Android Studio
 
-Working with databases (using queries):
+💿 Databases:
 MySQL, MongoDB
 
-Test Automation:
+🤖 Test Automation:
 TestNG,
 Selenium, Selenide, Locator strategies, Wrappers,
 Appium,
@@ -23,12 +23,12 @@ REST Assured,
 Cucumber, Gherkin,
 Allure Report
 
-CI/CD: Jenkins, GitHub Actions
+♾ CI/CD: Jenkins, GitHub Actions
 
-Analytic systems:
+📊 Analytic systems:
 Firebase, Adjust, Google Analytics
 ##
-More info about my skills and job experience on my [Linkedin page](https://www.linkedin.com/in/irynaihnatovich/)
+👩🏼‍💻 More info about my skills and job experience on my [Linkedin page](https://www.linkedin.com/in/irynaihnatovich/)
 
 
 
