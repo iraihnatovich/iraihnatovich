@@ -28,8 +28,9 @@ Allure Report
 📊 Analytic systems:
 Firebase, Adjust, Google Analytics
 ##
-👩🏼‍💻 More info about my skills and job experience on my [Linkedin page](https://www.linkedin.com/in/irynaihnatovich/)
+👩🏼‍💻 Check out my [Linkedin page](https://www.linkedin.com/in/irynaihnatovich/) for more info
 
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJsYjhnNGs1bWp2NnFzbjk5cnczY2toY3A3MzRsem92ejRkOHoxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif)
 
 
 <!--
