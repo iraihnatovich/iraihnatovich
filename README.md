@@ -1,6 +1,6 @@
 Hi there! 🐞 🔍
 
-I'm Iryna (Ira) Ihnatovich - QA engineer since 2019. I specialize in testing both web and mobile apps. In 2024 I've successfully finished course Java Automation QA Engineer. 
+I'm Iryna (Ira) Ihnatovich - QA engineer since 2019. I specialize in testing both web and mobile apps. In 2024 I've successfully finished Java Automation QA course. 
 ##
 **Skills**
 
